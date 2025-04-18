@@ -18,7 +18,7 @@ Este repositorio contiene varios proyectos de práctica donde:
 
 ## 🚀 Proyectos incluidos
 
-1. [Dark Mode Toggler](./Css/darkModeToggler) - Un botón para cambiar entre el modo oscuro y el modo claro con animaciones.
+1. [Dark Mode Toggler](./Efectos/darkModeToggler) - Un botón para cambiar entre el modo oscuro y el modo claro con animaciones.
 
 ## 🏗️ Estructura del proyecto
 
