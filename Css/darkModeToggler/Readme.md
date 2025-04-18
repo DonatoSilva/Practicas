@@ -3,7 +3,11 @@
 Una implementación simple y elegante de un alternador de modo oscuro utilizando HTML, CSS y JavaScript.
 
 <p align="center">
-    <video width="70%" src="https://res.cloudinary.com/dvibg2f6y/video/upload/v1745004414/Grabaci%C3%B3n_2025-04-18_142636_od4cxx.mp4" autoplay loop muted></video>
+    <div style="background-color: #000; padding: 10px 20px; border-radius: 6px; width: fit-content; margin: auto;">
+        <a href="./Css/darkModeToggler" style="color: #fff; text-decoration: none; font-weight: bold; ">
+            ▶️ Ver Demostración en Video
+        </a>
+    </div>
 </p>
 
 ## Características
