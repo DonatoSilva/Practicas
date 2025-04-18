@@ -22,6 +22,8 @@ Este repositorio contiene varios proyectos de práctica donde:
 
 ## 🏗️ Estructura del proyecto
 
+```plaintext
+
 /Practicas/
 │
 ├── /darkModeToggler/        # Implementación de cambio de tema
@@ -32,3 +34,4 @@ Este repositorio contiene varios proyectos de práctica donde:
 │   └── vite.config.js       # Configuración de Vite
 │
 └── README.md                # Este archivo
+```
