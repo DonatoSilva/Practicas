@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="/src/css/app.css">
+  <title>Efecto Cursor</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Micro+5+Charted&display=swap"
+    rel="stylesheet">
+</head>
+
+<body class="flex flex-col min-h-svh">
+  <div class="cursor"></div>
+  <div class="content-center flex-[1] relative">
+    <h1 class="text-center">Prueba de efecto</h1>
+    <p class="mx-auto text-center">En el cursor</p>
+  </div>
+  <footer class="flex box-border min-w-full px-1 justify-between">
+    <div class="flex flex-col justify-center items-center w-fit text-white px-2">
+      <strong class="text-xs w-fit">Creado por:</strong> Donato Silva
+    </div>
+    <div class="grid grid-cols-2 grid-rows-2 gap-1 [&>div]:w-9 [&>div]:h-9 [&>div:not(:first-child)]:bg-amber-400">
+      <div class=""></div>
+      <div class=""></div>
+      <div class=""></div>
+      <div class=""></div>
+    </div>
+  </footer>
+</body>
+
+<script src="/src/js/main.js"></script>
+
+</html>
